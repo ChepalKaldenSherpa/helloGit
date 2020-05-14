@@ -1,2 +1,2 @@
-#HelloGit
+#Hello
 Hello Git
